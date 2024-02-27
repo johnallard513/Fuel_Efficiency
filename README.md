@@ -5,10 +5,13 @@ For this project, I examined various characteristics of vehicles made between 19
 My goals were to group similar vehicles into groups for customer segmentation  and advertising purposes for a ficiontal car dealership. 
 
 Analysis
+
 Questions a Used Car Salesman Would Ask
+
 Since a used car salesman would be the business owner to ask me to work on this ficitonal project, I thought it would be good to list the questions they would want me to answer.
 
 Do cars with high, mid, or low MPG typically share similar engine characteristics?
+
 Are there any manufacturers who specifically make vehicles with certain engine characteristics?
 What are the trends by model year?
 What style of vehicles typically have the best MPG?
