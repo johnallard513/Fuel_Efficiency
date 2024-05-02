@@ -1,8 +1,22 @@
 # Exploring Trends in Automobile Manufacturing Between 1970-82
 
-For this project, I examined a dataset of 398 vehicles to uncover the relationship between various atributes and their effect on fuel efficieny. My research primarily involved investigating engine size, cylinder count, and horsepower of various manufacturers and any trends that appear across model years. Due to the complex relationship between the features, I primarily PCA and tSNE techniques to examine the data.
+For this project, I'm examining the relationship between various vehicle attributes and their effect on fuel efficieny. My research primarily involves investigating engine size, cylinder count, and horsepower of various manufacturers and any trends that appear across model years. Due to the complex relationship between the features, Given the complex relationship between the atributes, I'm using PCA and tSNE techniques to examine the data.
 
-My goals were to group similar vehicles into groups for customer segmentation and advertising purposes for a ficiontal car dealership. 
+My goals are to group similar vehicles into groups for customer segmentation and advertising purposes for a ficiontal car dealership. 
+
+## Dataset
+
+The dataset I'm using was provided by the MIT Applied Data Science Program and consists of 398 vehicles made between 1970-82 by a wide variety of manufacturers. I originally used this project as my milestone project submission, and now that I've completed the course I've decided to expand it to include in my professional portfolio.
+
+## Libraries
+
+* Matplotlib
+* Seaborn
+* Pandas
+* Numpy
+* Collections
+* Mpl_toolkits
+* Sklearn
 
 Questions I'm hoping to answer
 
