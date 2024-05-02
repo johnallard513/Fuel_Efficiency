@@ -38,6 +38,10 @@ Horsepower's also determined by a complex relationship between engine size and c
 
 There's quite a bit of variance for every variable but the averages typically stay towards the lower mid-range and there doesn't seem to be too much variance between the manufacturers.
 
+![PCA](Images/PCA.jpg)
+
+![JPG](Images/JPG.jpg)
+
 ## Segmentation
 
 Since there aren't any clear correlations between individual variables, you can't say definitively to segment the vehicles by this or that. Generaly, though, the data suggests you should focus on a balance of engine size and MPG.
