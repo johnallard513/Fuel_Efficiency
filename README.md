@@ -1,4 +1,4 @@
-# Exploring Trends in Automobile Manufacturing Between 1970-82
+# Fuel Efficiency Study
 
 For this project, I'm examining the relationship between various vehicle attributes and their effect on fuel efficieny. My research primarily involves investigating engine size, cylinder count, and horsepower of various manufacturers and any trends that appear across model years. Due to the complex relationship between the features, Given the complex relationship between the atributes, I'm using PCA and tSNE techniques to examine the data.
 
