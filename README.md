@@ -40,7 +40,7 @@ There's quite a bit of variance for every variable but the averages typically st
 
 ![PCA](Images/PCA.jpg)
 
-![JPG](Images/JPG.jpg)
+![TSNE](Images/TSNE.jpg)
 
 ## Segmentation
 
