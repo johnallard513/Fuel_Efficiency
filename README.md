@@ -8,6 +8,8 @@ My goals are to group similar vehicles into groups for customer segmentation and
 
 The dataset I'm using was provided by the MIT Applied Data Science Program and consists of 398 vehicles made between 1970-82 by a wide variety of manufacturers. I originally used this project as my milestone project submission, and now that I've completed the course I've decided to expand it to include in my professional portfolio.
 
+![Carlot](Images/Carlot.jpeg)
+
 ## Libraries
 
 * Matplotlib
